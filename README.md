@@ -1,2 +1,3 @@
 # global_freelance
-To clean and standardize raw global freelance data for reliable reporting
+The dataset contain freelance information about there experience,age,hourly rate,performance.
+they skills across country
